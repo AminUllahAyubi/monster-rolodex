@@ -1,0 +1,10 @@
+
+.search-box{
+    padding:12px 10px;
+    outline: none;
+    border:2px solid transparent;
+    border-radius: 5px;
+}
+.search-box:focus{
+    border: 2px solid rgb(172, 193, 211);
+}
